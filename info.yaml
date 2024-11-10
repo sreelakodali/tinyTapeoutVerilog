@@ -3,7 +3,7 @@ project:
   title:        "LoadMultiply"      # Project title
   author:       "SKodali"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Loading 8bit numbers and multiplying"      # One line description of what your project does
+  description:  "Verilog example, adder"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     30       # Clock frequency in Hz (or 0 if not applicable)
 
